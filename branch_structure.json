@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/sdk-get-proposal",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/sdk-get-proposal": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/sdk-get-proposal",
+    "origin"
+  ]
+}
